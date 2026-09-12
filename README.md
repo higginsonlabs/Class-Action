@@ -10,6 +10,3 @@ checking eligibility, joining eligible claims, and managing the process in one p
 
 ## Status
 Currently in development.
-
-## Demo
-[Watch the demo](class_action_demo_final.mp4) — a walkthrough of the core flow: checking eligibility, joining a claim, and tracking its status.
